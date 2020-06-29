@@ -81,9 +81,9 @@ Golliwog: Afro-Caribbeans
 Gook: Far Easterners  
 Gook-eye: Far Easterners  
 Gooky: Far Easterners  
-Goy: a non-Jew  
-Goyim: a non-Jew  
-Goyum: a non-Jew  
+Goy: a non-Jewish person  
+Goyim: a non-Jewish person  
+Goyum: a non-Jewish person  
 Greaseball: A person of Italian descent  
 Greaser: A person of Italian descent  
 Gringo: A person from an English-speaking country  
@@ -138,8 +138,8 @@ jockie: a Scottish person
 Jungle bunny: a black person  
 Kanaka: a Pacific Islander  
 Kebab: A Muslim, An Arab    
-Kike: Ashkenazi Jews  
-kyke: Ashkenazi Jews    
+Kike: an Ashkenazi Jewish person
+kyke: an Ashkenazi Jewish person
 Kraut:a German  
 Lebo: a Lebanese person  
 Leb: a Lebanese person  
